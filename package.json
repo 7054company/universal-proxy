@@ -1,0 +1,19 @@
+{
+  "name": "universal-proxy",
+  "version": "1.0.0",
+  "description": "A universal Node.js proxy that supports raw and encoded URLs with all protocols.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy",
+    "universal",
+    "nodejs",
+    "express",
+    "cors",
+    "url-redirect",
+    "bypass"
+  ],
+  "author": "Your Name",
+  "l
